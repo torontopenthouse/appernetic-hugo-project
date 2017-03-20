@@ -11,6 +11,7 @@ Work. Play. Live.
 
 Read more about Toronto’s South Core (“Soco”): [Wikipedia][2]
 
+<br><br>
 ![Transit & Infrastructure][3]
 **In the middle of all of the city’s transportation:**
 
@@ -20,6 +21,7 @@ Read more about Toronto’s South Core (“Soco”): [Wikipedia][2]
  - UP Express service to Pearson Airport (10 min walk)
  - Gardiner expressway on-ramp (< 1 min drive)
 
+<br><br>
 ![Play][4]
 **Steps away from entertainment venues, landmarks, and culture:**
 
@@ -33,6 +35,7 @@ Read more about Toronto’s South Core (“Soco”): [Wikipedia][2]
  - Purina PawsWay - Indoor dog park (11 min walk)
  - St Lawrence Market (11 min walk)
 
+<br><br>
 ![Restaurants & Groceries][5]
 **Whether you like to eat in:**
 
@@ -51,6 +54,7 @@ Read more about Toronto’s South Core (“Soco”): [Wikipedia][2]
  - Harbour Sixty Steakhouse (4 min walk)
  - Real Sports Bar & Grill (7 min walk)
 
+<br><br>
 ![Work][6]
 **Close to work and school so you waste no time commuting:**
 
