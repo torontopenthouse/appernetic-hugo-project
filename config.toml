@@ -186,7 +186,7 @@ paginate = 10
 # Menu links that appear on the left sidebar
 
 [[menu.main]]
-	name = "Penthouse"
+	name = "**Penthouse**"
 	url  = "/"
 	weight = 10
 
