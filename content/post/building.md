@@ -12,7 +12,7 @@ title = "The Building"
 **Maintenance fees include:**
 
  - Hydro, gas, and water 
- - HD cable TV
+ - Premium HD cable TV
 
 <br><br>
 ![Services][3]
@@ -20,7 +20,7 @@ title = "The Building"
 
  - 24/ 7 concierge service
  - 24/ 7 security and monitoring service
- - Complimentary parking for your guests
+ - Complimentary parking for your guests (25 spaces for the exclusive use of 10 Yonge guests. With separate parking for 10 Queen's Quay guests).
  - Movie screenings and fitness classes (some classes may require   
    additional fees):
 
