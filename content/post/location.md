@@ -48,6 +48,8 @@ Read more about Toronto’s South Core (“Soco”): [Wikipedia][2]
 **Or eat out:**
 
  - The Firkin on Harbour (<1 min walk)
+ - Starbucks and Tim Hortons (<1 min walk)
+ - Oyshi Sushi (<1 min walk)
  - The Miller Tavern (2 min walk)
  - The Fox on Bay (2 min walk)
  - Miku Japanese Restaurant (3 min walk)
