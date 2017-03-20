@@ -1,11 +1,10 @@
 +++
 draft = false
-date = "2017-03-20T19:22:40Z"
-title = "firstpost"
+date = "2017-03-23"
+title = "The Location"
 
 +++
-
-Located at the start of Canada’s iconic Yonge Street. At the centre of the city that’s at the centre of Canada. 
+Located at the start of Canada’s iconic Yonge Street. At the centre of the city that’s at the centre of Canada. 
 Work. Play. Live. 
 
 Read more about Toronto’s South Core (“Soco”): Wikipedia
