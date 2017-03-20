@@ -10,7 +10,7 @@ Work. Play. Live.
 Read more about Toronto’s South Core (“Soco”): [Wikipedia][1]
 
 ![Transit & Infrastructure][2]
-In the middle of all of the city’s transportation:
+**In the middle of all of the city’s transportation:**
 
  - Toronto’s underground PATH system (2 min walk)
  - Queen’s Quay underground TTC streetcar station (2 min walk)
@@ -19,7 +19,7 @@ In the middle of all of the city’s transportation:
  - Gardiner expressway on-ramp (< 1 min drive)
 
 ![Play][3]
-Steps away from entertainment venues, landmarks, and culture:
+**Steps away from entertainment venues, landmarks, and culture:**
 
  - Toronto’s Waterfront (< 1 min walk)
  - Toronto Islands Ferry (< 1 min walk)
@@ -32,7 +32,7 @@ Steps away from entertainment venues, landmarks, and culture:
  - St Lawrence Market (11 min walk)
 
 ![Restaurants & Groceries][4]
-Whether you like to eat in:
+**Whether you like to eat in:**
 
  - The Kitchen Table supermarket (< 1 min walk)
  - LCBO (3 min walk)
@@ -40,7 +40,7 @@ Whether you like to eat in:
  - Longos at Maple Leaf Square (7 min walk)
  - Sobeys (8 min walk)
 
-Or eat out:
+**Or eat out:**
 
  - The Firkin on Harbour (<1 min walk)
  - The Miller Tavern (2 min walk)
@@ -50,7 +50,7 @@ Or eat out:
  - Real Sports Bar & Grill (7 min walk)
 
 ![Work][5]
-Close to work and school so you waste no time commuting:
+**Close to work and school so you waste no time commuting:**
 
  - South Core financial district (2 min walk)
  - Toronto’s PATH network (2 min walk)
