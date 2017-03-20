@@ -1,10 +1,11 @@
 +++
-draft = true
-date = "2017-03-20T18:02:34Z"
+draft = false
+date = "2017-03-20T19:22:44Z"
 title = "firstpost"
 
 +++
-**Parking, Storage, & Utilities**
+
+**Parking, Storage, & Utilities**
 ---------------------------------
 
 Penthouse 3 includes an underground parking spot and a ## square foot storage unit.
