@@ -58,13 +58,14 @@ title = "The Building"
 ![Golf_simulator][12]
 ![Dance_studio][13]
 ![Party_rooms][14]
-
+![Weight_room][15]
+![Patio][16]
 
   [1]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038838/9af11d_0c47_qzkgu2.jpg
   [2]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038924/Utilities_-_title_e3cezp.jpg
   [3]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038923/Service_-_title_uptppt.jpg
   [4]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038925/Amenities_-_title_b2zqu7.jpg
-  [5]: http://res.cloudinary.com/dj68jte5c/image/upload/v1489970482/C3694850_14_c3jwhd.jpg
+  [5]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490041929/C3585362_18_efpt7d.jpg
   [6]: http://res.cloudinary.com/dj68jte5c/image/upload/v1489970484/C3697639_14_opckgl.jpg
   [7]: http://res.cloudinary.com/dj68jte5c/image/upload/v1489970484/C3697639_11_irze5j.jpg
   [8]: http://res.cloudinary.com/dj68jte5c/image/upload/v1489970481/C3694850_18_iwbbsi.jpg
@@ -74,3 +75,5 @@ title = "The Building"
   [12]: http://res.cloudinary.com/dj68jte5c/image/upload/v1489970483/C3694850_16_qunuac.jpg
   [13]: http://res.cloudinary.com/dj68jte5c/image/upload/v1489970477/C3544185_15_pnooxa.jpg
   [14]: http://res.cloudinary.com/dj68jte5c/image/upload/v1489970482/C3694850_17_j4sx35.jpg
+  [15]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490041963/C3439957_18_f39yq0.jpg
+  [16]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490041961/C3542980_19_q6oig0.jpg
