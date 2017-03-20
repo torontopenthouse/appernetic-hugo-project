@@ -5,8 +5,8 @@ title = "The Building"
 
 +++
 ![Building][1]
-
 **Penthouse 3 includes an underground parking spot and a large storage unit.**
+
 <br><br>
 ![Utilities][2]
 **Maintenance fees include:**
