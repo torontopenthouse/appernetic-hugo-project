@@ -59,7 +59,7 @@ Close to work and school so you waste no time commuting:
 
 Area Map
 --------
-![enter image description here][6]
+![Area_map][6]
 
 
   [1]: https://en.wikipedia.org/wiki/South_Core,_Toronto
@@ -67,4 +67,4 @@ Area Map
   [3]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038923/Play_-_title_c4pona.jpg
   [4]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038921/Food_-_title_rmplc1.jpg
   [5]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038926/Work_-_title_nn1upr.jpg
-  [6]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038925/Map_rcmgw2.jpg
+  [6]: http://res.cloudinary.com/dj68jte5c/image/upload/c_scale,w_877/v1490038925/Map_rcmgw2.jpg
