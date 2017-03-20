@@ -1,8 +1,8 @@
-baseurl = "https://example.org/"
+baseurl = "hhttps://torontopenthouse.github.io/"
 languageCode = "en-us"
-title = "Strata"
+title = "Toronto Penthouse"
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+#disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -11,8 +11,8 @@ paginate = 10
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
-	description = "Describe your website"
+	name = "Terry Lam"
+	description = "PH3-10 Yonge St"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -26,87 +26,140 @@ paginate = 10
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Strata**, a super simple<br> responsive site template freebie<br> crafted by [HTML5 UP](//html5up.net)."
+		bio = "**A two storey penthouse**<br>in Toronto's fast-paced<br>South Core District"
 		# The icons will be shown if you enter your username
-		twitter = "spf13"
-		github = "spf13"
-		gitlab = "spf13"
-		dribbble = ""
-		facebook = ""
-		googleplus = ""
-		flickr = ""
-		linkedin = ""
+
 
 		copyright = [
-			"&copy; John Doe",
+			"&copy; Terry Lam, Realtor",
 			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
 		]
 
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "Live at the top of Toronto"
+		content = "**Penthouse 3 is perched on the 36th and 37th floors of 10 Yonge Street with breathtaking views of Toronto's skyline.**  1,070 sqft of space designed as a single open-concept loft, with two bathrooms and a spacious walk-in closet."
 
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "The Penthouse"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Breathtaking views"
+			description = "One of the few floors with unobstructed views of the city"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "1,070 square feet"
+			description = "Rare design with large amounts of space all for one bed"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "9 foot ceilings"
+			description = "Higher ceilings than lower floors in the building"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Open concept living"
+			description = "With ceilings soaring to 18 feet at certain points"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Bright and spacious"
+			description = "With floor-to-ceiling windows spanning 2 storeys"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Contemporary design"
+			description = "Warm and inviting"
+            
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Great for entertaining"
+			description = "With an open kitchen and breakfast bar"
 
-	[params.recentposts]
-		hide  = false
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Plenty of storage"
+			description = "Large walk-in closet and built-in storage"
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "A den by day"
+			description = "With plenty of of sunglight for relaxing"
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "A home theater by night"
+			description = "With a hidden 100 inch projector screen"
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Fall asleep overlooking Toronto"
+			description = "With enough room for a king-sized bed"
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Library nook"
+			description = "For books and other items"
+            
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "With spaces to work"
+			description = "Plenty of space to work, relax, and enjoy"
+                    
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Extra room"
+			description = "Secondary spaces for work, for those that work extra hard."
+
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "A bathroom for guests"
+			description = "With a fair amount of space"
+            
+        [[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "And a bathroom for yourselves"
+			description = "With both a shower and tub"            
+
+    [params.recentposts]
+		hide  = true
 		title = "Recent blog posts"
-
+        
 	[params.contact]
 		hide  = false
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		title = "Request more information"
+		content = "Please contact Terry Lam of Homelife New World Realty for more information on this unit."
 
 		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
+			"Terry Lam",
+    		"Homelife New World Realty",
+			"201 Consumers Road #205",
+			"Toronto Ontario M2J 4G8"
 		]
-		phone = "000-000-0000"
+		phone = "416-490-1177"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -119,7 +172,7 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = "terrysl.lam@gmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
@@ -131,12 +184,18 @@ paginate = 10
 
 
 # Menu links that appear on the left sidebar
-[[menu.main]]
-	name = "Home"
-	url  = "/"
-	weight = 0
 
 [[menu.main]]
-	name = "Blog"
-	url  = "post/"
+	name = "Penthouse"
+	url  = "/"
 	weight = 10
+
+[[menu.main]]
+	name = "Building"
+	url  = "post/building"
+	weight = 20
+
+[[menu.main]]
+	name = "Location"
+	url  = "post/location"
+	weight = 30
