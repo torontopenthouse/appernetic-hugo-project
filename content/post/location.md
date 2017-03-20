@@ -4,12 +4,14 @@ date = "2017-03-23"
 title = "The Location"
 
 +++
-Located at the start of Canada’s iconic Yonge Street. At the centre of the city that’s at the centre of Canada. 
+![Central_city_living][1]
+
+Located at the start of Canada’s iconic Yonge Street. At the centre of the city that’s at the centre of Canada. 
 Work. Play. Live. 
 
-Read more about Toronto’s South Core (“Soco”): [Wikipedia][1]
+Read more about Toronto’s South Core (“Soco”): [Wikipedia][2]
 
-![Transit & Infrastructure][2]
+![Transit & Infrastructure][3]
 **In the middle of all of the city’s transportation:**
 
  - Toronto’s underground PATH system (2 min walk)
@@ -18,7 +20,7 @@ Read more about Toronto’s South Core (“Soco”): [Wikipedia][1]
  - UP Express service to Pearson Airport (10 min walk)
  - Gardiner expressway on-ramp (< 1 min drive)
 
-![Play][3]
+![Play][4]
 **Steps away from entertainment venues, landmarks, and culture:**
 
  - Toronto’s Waterfront (< 1 min walk)
@@ -31,7 +33,7 @@ Read more about Toronto’s South Core (“Soco”): [Wikipedia][1]
  - Purina PawsWay - Indoor dog park (11 min walk)
  - St Lawrence Market (11 min walk)
 
-![Restaurants & Groceries][4]
+![Restaurants & Groceries][5]
 **Whether you like to eat in:**
 
  - The Kitchen Table supermarket (< 1 min walk)
@@ -49,7 +51,7 @@ Read more about Toronto’s South Core (“Soco”): [Wikipedia][1]
  - Harbour Sixty Steakhouse (4 min walk)
  - Real Sports Bar & Grill (7 min walk)
 
-![Work][5]
+![Work][6]
 **Close to work and school so you waste no time commuting:**
 
  - South Core financial district (2 min walk)
@@ -59,12 +61,13 @@ Read more about Toronto’s South Core (“Soco”): [Wikipedia][1]
 
 Area Map
 --------
-![Area_map][6]
+![Area_map][7]
 
 
-  [1]: https://en.wikipedia.org/wiki/South_Core,_Toronto
-  [2]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038924/Transit_-_title_ikhkxr.jpg
-  [3]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038923/Play_-_title_c4pona.jpg
-  [4]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038921/Food_-_title_rmplc1.jpg
-  [5]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038926/Work_-_title_nn1upr.jpg
-  [6]: http://res.cloudinary.com/dj68jte5c/image/upload/c_scale,w_877/v1490038925/Map_rcmgw2.jpg
+  [1]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038923/Life_nru2jl.jpg
+  [2]: https://en.wikipedia.org/wiki/South_Core,_Toronto
+  [3]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038924/Transit_-_title_ikhkxr.jpg
+  [4]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038923/Play_-_title_c4pona.jpg
+  [5]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038921/Food_-_title_rmplc1.jpg
+  [6]: http://res.cloudinary.com/dj68jte5c/image/upload/v1490038926/Work_-_title_nn1upr.jpg
+  [7]: http://res.cloudinary.com/dj68jte5c/image/upload/c_scale,w_877/v1490038925/Map_rcmgw2.jpg
