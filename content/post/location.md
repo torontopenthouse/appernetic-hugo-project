@@ -34,6 +34,7 @@ Read more about Toronto’s South Core (“Soco”): [Wikipedia][2]
  - Natrel Skating Rink (9 min walk)
  - Purina PawsWay - Indoor dog park (11 min walk)
  - St Lawrence Market (11 min walk)
+ - Rogers Centre (15 min walk)
 
 <br><br>
 ![Restaurants & Groceries][5]
