@@ -45,7 +45,7 @@ title = "The Building"
  - Billiards room
  - Games room (ping pong, air hockey, and video games)
  - Children's playroom
- - 38th floor Skylounge party room.
+ - Skylounge clubhouse spanning the entire 38th floor
 
 <br><br>
 ![Cardio_centre][5]
