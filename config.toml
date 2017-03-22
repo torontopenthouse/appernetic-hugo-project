@@ -129,7 +129,7 @@ paginate = 10
         [[params.portfolio.gallery]]
 			image = "fulls/14.jpg"
 			thumb = "thumbs/14.jpg"
-			title = "Extra room"
+			title = "Room in unexpected places"
 			description = "Secondary spaces for work, for those that work extra hard."
 
         [[params.portfolio.gallery]]
