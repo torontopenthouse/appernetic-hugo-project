@@ -111,7 +111,7 @@ paginate = 10
         [[params.portfolio.gallery]]
 			image = "fulls/11.jpg"
 			thumb = "thumbs/11.jpg"
-			title = "Fall asleep overlooking Toronto"
+			title = "Fall asleep over Toronto"
 			description = "With enough room for a king-sized bed"
 
         [[params.portfolio.gallery]]
@@ -123,8 +123,8 @@ paginate = 10
         [[params.portfolio.gallery]]
 			image = "fulls/13.jpg"
 			thumb = "thumbs/13.jpg"
-			title = "With spaces to work"
-			description = "Plenty of space to work, relax, and enjoy"
+			title = "Tranquil ambience"
+			description = "Plenty of space to relax and enjoy"
                     
         [[params.portfolio.gallery]]
 			image = "fulls/14.jpg"
